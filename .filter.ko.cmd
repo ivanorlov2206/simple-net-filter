@@ -1,1 +1,0 @@
-cmd_/home/mineorpe/dev/modules/netfilter/filter.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/mineorpe/dev/modules/netfilter/filter.ko /home/mineorpe/dev/modules/netfilter/filter.o /home/mineorpe/dev/modules/netfilter/filter.mod.o;  true

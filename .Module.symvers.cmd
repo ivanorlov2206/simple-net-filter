@@ -1,1 +1,0 @@
-cmd_/home/mineorpe/dev/modules/netfilter/Module.symvers := sed 's/\.ko$$/\.o/' /home/mineorpe/dev/modules/netfilter/modules.order | scripts/mod/modpost -m -a  -o /home/mineorpe/dev/modules/netfilter/Module.symvers -e -i Module.symvers   -T -

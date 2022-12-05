@@ -1,1 +1,0 @@
-cmd_/home/mineorpe/dev/modules/netfilter/filter.o := ld -m elf_x86_64   -r -o /home/mineorpe/dev/modules/netfilter/filter.o /home/mineorpe/dev/modules/netfilter/filter-main.o /home/mineorpe/dev/modules/netfilter/iptools.o

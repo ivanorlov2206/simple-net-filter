@@ -1,1 +1,0 @@
-cmd_/home/mineorpe/dev/modules/netfilter/filter.mod := { echo  /home/mineorpe/dev/modules/netfilter/filter-main.o /home/mineorpe/dev/modules/netfilter/iptools.o;  echo; } > /home/mineorpe/dev/modules/netfilter/filter.mod
